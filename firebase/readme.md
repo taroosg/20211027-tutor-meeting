@@ -8,6 +8,6 @@
 
 - 講義資料には新 ver で反映済み．
 
-- [https://github.com/taroosg/firebase-v9-test](https://github.com/taroosg/firebase-v9-test)
+- サンプル：[https://github.com/taroosg/firebase-v9-test](https://github.com/taroosg/firebase-v9-test)
 
 - Realtime Database に変えるかも？意見求む
