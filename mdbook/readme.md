@@ -14,7 +14,7 @@
 
 [https://github.com/taroosg/bootcamp-master](https://github.com/taroosg/bootcamp-master)
 
-デプロイ先の URL を共有しておく → 資料の公開範囲を設定 →main ブランチに push→ 自動デプロイ
+デプロイ先の URL を共有しておく → 資料の公開範囲を設定 → main ブランチに push→ 自動デプロイ
 
 - 資料とサンプルを 1 つのリポジトリで一括管理する．
 - 資料は全て MD ファイルで記述．
@@ -26,6 +26,6 @@
 ## 技術的な話
 
 - mdbook（Rust 製の SSG）を使用．
-- GitHub Actions を用いて main ブランチに push→ 資料ビルド → サンプルコードディレクトリ圧縮 →gh-pages ブランチに設定 → 自動デプロイ
+- GitHub Actions を用いて main ブランチに push → 資料ビルド → サンプルコードディレクトリ圧縮 → `gh-pages` ブランチに設定 → 自動デプロイ
 - だいぶ楽．
 - スライドは廃止する．
