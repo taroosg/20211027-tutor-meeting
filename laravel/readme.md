@@ -25,4 +25,6 @@
 
 ## 資料
 
+無料枠で実装完了するので，チューター入る人は一通り実装おねがいします！
+
 [https://taroosg.github.io/laravel-for-paiza-cloud/](https://taroosg.github.io/laravel-for-paiza-cloud/)

@@ -15,6 +15,8 @@
 
 ## その他
 
+CRUD 処理は一度実装しておくことをオススメ（todo リストなど）．
+
 import とかムズい？？
 
 - Realtime Database に変えるかも？意見求む
